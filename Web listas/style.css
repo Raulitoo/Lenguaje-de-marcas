@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: lightskyblue;
+    
+}
+ul{
+    
+  
+}
+ol{
+    border-style: groove;
+    width: 60%;
+    list-style-type: decimal-leading-zero;
+
+}
+li{
+    width: 60%;
+
+}
+#celda_d{
+    color: crimson;
+
+}
+#textoB{
+    color: darkgreen;
+}
+.lista_romanos{
+    list-style-type: lower-roman;
+}
+.lista_romanos2{
+    list-style-type: lower-roman;
+}
+.lista_azul{
+    color: deeppink;
+}
